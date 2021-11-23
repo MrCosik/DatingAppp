@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "s3PyQ0i/dUDBUD54YB6d4IvVbn1hmo74tCszcwa78mmLwzaq8ZAIiP8TQwcMiivL3SsVRUtXczucOL6EeC2MlQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\ciro2\\Desktop\\Projekty\\NaukaWlasna\\DatingApp\\API\\API.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Nie można rozpoznać elementu „Swashbuckle.AspNetCore (>= 6.2.3)” dla elementu „net6.0”.",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
