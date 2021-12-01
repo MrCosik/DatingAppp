@@ -1,3 +1,6 @@
+using System;
+
+// ReSharper disable once EmptyNamespace
 namespace API;
 
 public class WeatherForecast
